@@ -1,1 +1,2 @@
+Updating from master
 this is a test text file for git hub
